@@ -1,0 +1,36 @@
+.nav-img{
+    height: 25px;
+    border-right: 1px solid #333;;
+}
+
+.nav-name{
+    font-size: 20px;
+}
+
+.profile_img{
+    height: 170px;
+    width: 170px;
+}
+
+.tags-line{
+    width: 20%;
+    float: left;
+}
+
+.posts-line{
+    width: 20%;
+    float: right;
+}
+
+.posts-text{
+    width: 20%;
+    float: right;
+    font-weight: bolder;
+    color: rgb(128, 125, 125);
+}
+
+.tags-text{
+    width: 20%;
+    float: left;
+    color: rgb(128, 125, 125);
+}
